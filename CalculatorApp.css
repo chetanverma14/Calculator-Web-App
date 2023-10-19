@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+H1{
+    text-align: center;
+}
+section{
+    text-align: center;
+    height: 400px;
+    width: 280px;
+    background-color: aqua;
+    margin: auto;
+    justify-content: center;
+    border: solid 3px black ;
+}
+.text{
+    padding: 12px;
+    margin-top: 10px;
+}
+.yellow-btn{
+    background-color: yellow;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+.gray-btn{
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+}
+.btn{
+    padding: 15px;
+    margin: 7px;
+    border-color: black;
+}
